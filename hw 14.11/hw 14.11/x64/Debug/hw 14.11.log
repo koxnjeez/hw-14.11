@@ -1,0 +1,4 @@
+﻿  hw 14.11.cpp
+C:\Users\User\Desktop\hw 14.11\hw 14.11\hw 14.11.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\hw 14.11\hw 14.11\hw 14.11.cpp(42,23): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  hw 14.11.vcxproj -> C:\Users\User\Desktop\hw 14.11\x64\Debug\hw 14.11.exe
